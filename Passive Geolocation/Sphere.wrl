@@ -1,0 +1,19 @@
+#VRML V2.0 utf8
+# Copyright 1998-2015 HUMUSOFT s.r.o. and The MathWorks, Inc.
+
+Transform {
+  children Shape {
+    appearance Appearance {
+      material Material {
+      }
+    }
+    geometry Sphere {
+    }
+  }
+}
+DEF DefaultViewpoint Viewpoint {
+  description "DefaultViewpoint"
+  position 0.313798 0 3.70685
+  orientation 0 1 0 0.0628318
+  fieldOfView 0.785398
+}
