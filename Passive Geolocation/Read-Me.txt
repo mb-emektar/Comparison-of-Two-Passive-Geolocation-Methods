@@ -1,0 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%  References  %%%%%%%%%%%%%%%%%%%%%%%%%
+
+•G. G. Gungor, A. Orduyilmaz, and M. Serin, "Passive geolocation using phase difference rate 
+for electronic support systems, « presented at the 2018 26th Signal Processing and Communications 
+Applications Conference (SIU), May 2018.
+
+•K. Doğançay, "Passive emitter localization using weighted instrumental variables,« Signal 
+Processing, vol. 84, no. 3, pp. 487-497, Mar. 2004.
